@@ -1,3 +1,18 @@
 body{
+    margin: 0;
     background-color: cornflowerblue;
+}
+
+#form{
+    background-color: cornsilk;
+    border-radius: 2px;
+    border: 1px solid black;
+    width: 300px;
+    margin: auto;
+    
+}
+
+.navbar{
+    background-color: cornsilk;
+    padding: 15px;
 }
